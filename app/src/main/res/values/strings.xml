@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS Mobile Programming</string>
+    <string-array name="Isi">
+        <item>Rin</item>
+        <item>Teo</item>
+        <item>Lu Bu</item>
+        <item>Sun Wu Kong</item>
+        <item>Jave</item>
+        <item>Yu Shin</item>
+    </string-array>
+</resources>
